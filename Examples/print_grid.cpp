@@ -36,8 +36,8 @@ void print_pixels()
   for(int i = 0 ; i < 12 ; i++){ //rows
     for(int j = 0 ; j < 16 ; j++) // cols 
     {
-      //cout << temperatures[j+16*i] << " : ";
-      cout <<(16 * (11-i) + j)<< " : ";
+      cout << temperatures[j+16*i] << " : ";
+      //cout <<(16 * (11-i) + j)<< " : ";
      
       
       
