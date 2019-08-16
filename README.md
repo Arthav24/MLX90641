@@ -61,4 +61,6 @@ To compile and try print_grid.cpp
 make 
 sudo ./printgrid
 ```
+
 ![Field Of View](https://github.com/Arthav24/MLX90641/blob/master/fov.png)
+![reading pattern](https://github.com/Arthav24/MLX90641/blob/master/pixel%20array.png)
