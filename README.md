@@ -62,5 +62,5 @@ make
 sudo ./printgrid
 ```
 
-![Field Of View](https://github.com/Arthav24/MLX90641/blob/master/fov.png)
-![reading pattern](https://github.com/Arthav24/MLX90641/blob/master/pixel%20array.png)
+![Field Of View](https://github.com/Arthav24/MLX90641/blob/master/Resources/fov.png)
+![reading pattern](https://github.com/Arthav24/MLX90641/blob/master/Resources/pixel%20array.png)
